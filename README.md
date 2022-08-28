@@ -23,7 +23,7 @@
   <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> 
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-  <img src="https://img.icons8.com/nolan/48/000000/java-coffee-cup-logo.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> 
   <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 </p>
