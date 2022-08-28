@@ -19,15 +19,13 @@
 
 ## Skills:
 <p align="center">
-  <img src="https://img.icons8.com/color/344/android-os.png"/> 
-  <img src="https://img.icons8.com/color/344/kotlin.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/android-os.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> 
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-  <img src="https://img.icons8.com/nolan/344/java-coffee-cup-logo.png"/> 
-  <img src="https://img.icons8.com/color/344/heroku.png"/>
-  <img src="https://img.icons8.com/color/344/intellij-idea.png"/>
-  <img src=""/>
-  <img src=""/>
+  <img src="https://img.icons8.com/nolan/48/000000/java-coffee-cup-logo.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 </p>
 
 <table style="width:100%;">
